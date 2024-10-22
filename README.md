@@ -16,3 +16,8 @@
 ## ⚠️ Dependencies ⚠️
 
 ### NuGet
+- [itext](https://itextpdf.com/)
+- [itext.bouncy-castle-adapter](https://itextpdf.com/)
+- [itext.commons](https://itextpdf.com/)
+- [itext.pdfhtml](https://itextpdf.com/products/convert-html-css-to-pdf-pdfhtml)
+- [RtfPipe](https://github.com/erdomke/RtfPipe)
