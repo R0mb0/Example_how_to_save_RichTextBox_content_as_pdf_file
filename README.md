@@ -1,4 +1,4 @@
-# Example how to save RichTextBox content as pdf file
+# Example how to save RichTextBox content as pdf file keeping text formatting
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=black)
 
